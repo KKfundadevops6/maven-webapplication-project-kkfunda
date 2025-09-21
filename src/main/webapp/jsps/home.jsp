@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to kk FUNDA </h1>
-<h1 align="center"> KK FUNDA</h1>
+<marquee><h1 align="center"> Devops with SRE </h1></marquee>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
